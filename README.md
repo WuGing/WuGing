@@ -1,7 +1,7 @@
 👋 Hi, I’m @WuGing
 
-🌱 Most currently working on an Azure DevOps API Client .NET library: learning about OpenAPI, GitHub Actions, and NuGet package publishing. Long term I plan to use this knowledge for an iOS app to interface with Azure DevOps. 
-Additionally finding time to build Linq Extension libaries, improve my Data Structure projects from my Algorithm and Data Structure college class, and reviewing my VM & Compiler from my capstone, and looking for way to improve it. (Rewrite in a public C#, chat?)
+🌱 Currently working on an Azure DevOps API Client .NET library: learning about OpenAPI, GitHub Actions, and NuGet package publishing. Long term I plan to use this knowledge for an iOS app to interface with Azure DevOps. 
+Additionally finding time to build Linq Extension libaries, improve my Data Structure projects from my Algorithm and Data Structure college class, and reviewing my VM & Compiler from my capstone, and looking for way to improve it.
 
 💞️ Catch my occassional streams on Twitch and YouTube.
 
